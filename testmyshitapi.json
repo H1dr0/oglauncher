@@ -1,8 +1,8 @@
 {
 
-  "Disable": true,
+  "Disable": false,
 
-  "DisableMessage": "This swapper no longer works, Join the Discord for the new one! https://discord.gg/proswapper",
+  "DisableMessage": "This shit no longer works",
 
   "DiscordID": 703033424541384784,
 
