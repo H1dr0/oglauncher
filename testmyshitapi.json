@@ -1,15 +1,27 @@
 
-"polaris main": { 
+{ 
   "Disable": false,
  
   "DisableMessage": "M",
   
   "PatchNotes": "[+] Polaris Extra Safe verison (a version of polaris with no recovery features)\n[+] ur father\n[+] added best api made by hidro :)",
 	
-  "Credits": "Carlton\nSilentPatrick(Patrick but on silent mode)\nHidro (paradise#4520)\noni#5099"
-},
+  "Credits": "Carlton\nSilentPatrick(Patrick but on silent mode)\nHidro (paradise#4520)\noni#5099",
+  
+  
 
-"polaris stable": {
-   "Status": "Undetected",
-   "Version": "0.0.3"
+  "Name1": "Polaris Stable",
+  
+  "Game1": "Grand Theft Auto",
+
+  "Version1": "0.0.3",
+  
+  "Status1": "Undetected",
+
+  "Updated1": "1970/01/01"
+
+
+
+  
+
 }
