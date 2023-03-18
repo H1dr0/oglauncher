@@ -1,6 +1,6 @@
 {
 
-  "Disable": false,
+  "Disable": true,
 
   "DisableMessage": "This paste no longer works",
 
