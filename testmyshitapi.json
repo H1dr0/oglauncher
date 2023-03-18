@@ -5,5 +5,5 @@
   
   "PatchNotes": "[+] Polaris Extra Safe verison (a version of polaris with no recovery features)\n [+] ur father",
   
-  "Logo": ".\files\h.png"
+  "Logo": @".\\files\\h.png"
 }
