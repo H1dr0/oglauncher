@@ -1,4 +1,5 @@
-{ 
+
+"polaris main": { 
   "Disable": false,
  
   "DisableMessage": "M",
@@ -6,5 +7,9 @@
   "PatchNotes": "[+] Polaris Extra Safe verison (a version of polaris with no recovery features)\n[+] ur father\n[+] added best api made by hidro :)",
 	
   "Credits": "Carlton\nSilentPatrick(Patrick but on silent mode)\nHidro (paradise#4520)\noni#5099"
-}
+},
 
+"polaris stable": {
+   "Status": "Undetected",
+   "Version": "0.0.3"
+}
