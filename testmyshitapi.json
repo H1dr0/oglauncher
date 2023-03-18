@@ -1,10 +1,12 @@
 {
 
-  "PatchNotes": "[+] Polaris Extra Safe verison (a version of polaris with no recovery features)",
+ 
   
   "Disable": false,
  
-  "DisableMessage": "M"
+  "DisableMessage": "M",
+  
+   "PatchNotes": "[+] Polaris Extra Safe verison (a version of polaris with no recovery features)",
  
   
 
